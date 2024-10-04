@@ -1,4 +1,5 @@
 *.xlsx
 .venv
 extracted_cornea_area/
+preprocessed_images/
 __pycache__/
