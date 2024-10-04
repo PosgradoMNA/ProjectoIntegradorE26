@@ -1,2 +1,4 @@
 *.xlsx
 .venv
+extracted_cornea_area/
+__pycache__/
