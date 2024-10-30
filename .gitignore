@@ -3,3 +3,5 @@
 extracted_cornea_area/
 preprocessed_images/
 __pycache__/
+
+intial_modeling/data
